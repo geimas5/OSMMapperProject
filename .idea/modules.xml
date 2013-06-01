@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OMSMapperTests/OMSMapperTests.iml" filepath="$PROJECT_DIR$/OMSMapperTests/OMSMapperTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSMMapper/OSMMapper.iml" filepath="$PROJECT_DIR$/OSMMapper/OSMMapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSMMapperProject.iml" filepath="$PROJECT_DIR$/OSMMapperProject.iml" />
+    </modules>
+  </component>
+</project>
+
